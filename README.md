@@ -43,6 +43,6 @@ spiking-neural-decoder
 
 As someone deeply interested in cognitive modeling and bio-inspired AI, I wanted to explore how real neural activity relates to decision-making. This project bridges neuroscience and machine learning and gave me insights into how sparse spike data can be decoded to understand behavior.
 
-## 📝 View the interactive notebook:(Spiking_Neural_Decoder_Portfolio_Annotated.ipynb)
+## 📝 View the interactive notebook:([Spiking_Neural_Decoder_Portfolio_Annotated.ipynb](url))
 
 
